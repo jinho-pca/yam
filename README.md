@@ -43,7 +43,8 @@
 ## 🏋️‍ 협업툴
 - Git
 - Jira
-- notion
+- Mattermost
+- Notion
 - Discord
 
 ## 🤙 Git Convention

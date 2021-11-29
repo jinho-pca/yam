@@ -1,4 +1,4 @@
-# 서울1반 A102팀 자율 프로젝트 YAM(Yours And Mine)
+# 지역기반 물품 대여 서비스 YAM(Yours And Mine)
 
 <div align="center">
   <img width="600" src="https://user-images.githubusercontent.com/60912550/142337946-2506d87a-b9bf-480a-8817-e6156a51518d.png" />

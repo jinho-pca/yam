@@ -12,7 +12,6 @@
 
 <br/>
 
-
 ![StyleCI](https://img.shields.io/badge/React-17.0.2-brightgreen)
 ![StyleCI](https://img.shields.io/badge/Redux-7.2.5-7248B6)
 ![StyleCI](https://img.shields.io/badge/semantic/ui-2.0.3-00ACA3)   

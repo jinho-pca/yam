@@ -1,7 +1,6 @@
 # YAM(Yours And Mine) - 지역기반 물품 대여 서비스
 
 <img src="https://user-images.githubusercontent.com/60912550/145680964-8934e8cd-24bc-4911-afe1-29e5b3a9a203.png" alt="메인" width="800" height="300" /> <br />
-<br/>
 
 ## 0. 목차
 [1. YAM 소개](#1-YAM-소개)<br/>
